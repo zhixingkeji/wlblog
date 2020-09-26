@@ -1,8 +1,8 @@
 theme = "hugo-sugoi"
 baseURL = "https://example.com"
-languageCode = "en-us"
+languageCode = "zh-CN"
 title = "Sugoi"
-summaryLength = 20
+summaryLength = 0
 paginate = 5
 # Google Analytics ID, Uncomment below line to enable
 # googleAnalytics = "UA-123-45"
