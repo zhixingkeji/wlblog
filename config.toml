@@ -2,7 +2,7 @@ theme = "hugo-sugoi"
 baseURL = "https://wlfirstblog.top"
 languageCode = "zh-CN"
 title = "WL的博客"
-summaryLength = 0
+summaryLength = 20
 paginate = 5
 # Google Analytics ID, Uncomment below line to enable
 # googleAnalytics = "UA-123-45"
