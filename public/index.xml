@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WL的博客</title>
+    <link>https://example.com/</link>
+    <description>Recent content on WL的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zd-CN</language>
+    <lastBuildDate>Sat, 26 Sep 2020 15:20:07 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>王乐的第一篇日志</title>
+      <link>https://example.com/post/%E7%8E%8B%E4%B9%90%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%97%A5%E5%BF%97/</link>
+      <pubDate>Sat, 26 Sep 2020 15:20:07 +0800</pubDate>
+      
+      <guid>https://example.com/post/%E7%8E%8B%E4%B9%90%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%97%A5%E5%BF%97/</guid>
+      <description>其实你知道我有多想你哈哈哈 </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Thu, 23 Apr 2020 20:03:58 +0530</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 23 Apr 2020 19:57:09 +0530</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Quidque corpore Lorem markdownum verbis. Ipso et felices curvos, interit fulmina avellere sed utendum alte, illas; sumusve huc corpora. Formam cupit, imagine cur tulerunt Ligdo laborum, elige natae, serpens distent quietis sagittas; tuo.</description>
+    </item>
+    
+    <item>
+      <title>Fire Nation - Code Blocks?</title>
+      <link>https://example.com/post/code-blocks/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://example.com/post/code-blocks/</guid>
+      <description>Tuta et oras femina unda pennisque vicina Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim mea conveniunt cessit; mihi.</description>
+    </item>
+    
+    <item>
+      <title>Fire Nation - Price Zuko</title>
+      <link>https://example.com/post/prince-zuko/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://example.com/post/prince-zuko/</guid>
+      <description>Cepit pete stipe Lorem markdownum viso. Vitam et suam Minyis, haec scire plenaque volenti futuri quam inpulsu victore vidisset et. Hastam perdidit bracchia, nec mora superare placuit scelus celanda posset, et axem illuc.</description>
+    </item>
+    
+    <item>
+      <title>Water Nation pride and peace</title>
+      <link>https://example.com/post/water-nation-pride-and-peace/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:45 +0530</pubDate>
+      
+      <guid>https://example.com/post/water-nation-pride-and-peace/</guid>
+      <description>Quidque corpore Lorem markdownum verbis. Ipso et felices curvos, interit fulmina avellere sed utendum alte, illas; sumusve huc corpora. Formam cupit, imagine cur tulerunt Ligdo laborum, elige natae, serpens distent quietis sagittas; tuo.</description>
+    </item>
+    
+  </channel>
+</rss>
