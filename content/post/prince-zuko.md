@@ -49,4 +49,4 @@ Corpus expellere in suo et coepit socios, circumtulit fundit: metuunt. Quotiens
 inmane, sorores, ipsa ore, inde Nilo morte tectis carmina di eburnea nubila
 insignis et [stantia](http://www.siquavix.org/sticteque-dummodo) adorat.
 Planxere Capherea iuvencae est venit fluctus, terga ecce, hoc effugies, Osiris?
-Tremore suis *parari vidit* ab **saepe excita** iamque, humum, furtique.
+Tremore suis *parari vidit* ab **saepe excita** iamque, humum, furtique.  
