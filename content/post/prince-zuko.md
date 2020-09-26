@@ -4,7 +4,6 @@ date: 2020-03-22T15:05:56.000+05:30
 categories:
 - Fire
 icon: fas fa-fire
-draft: true
 
 ---
 ## Cepit pete stipe
