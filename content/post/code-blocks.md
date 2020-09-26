@@ -1,12 +1,11 @@
 ---
-title: "Fire Nation - Code Blocks?"
-date: 2020-03-22T15:05:56+05:30
-draft: false
+title: Fire Nation - Code Blocks?
+date: 2020-03-22T15:05:56.000+05:30
+categories:
+- Fire Alt
+icon: fas fa-fire-alt
 
-categories: ["Fire Alt"]
-icon: "fas fa-fire-alt"
 ---
-
 ## Tuta et oras femina unda pennisque vicina
 
 Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim
