@@ -1,12 +1,11 @@
 ---
-title: "Water Nation pride and peace"
-date: 2020-03-22T15:05:45+05:30
-draft: false
+title: Water Nation pride and peace
+date: 2020-03-22T15:05:45.000+05:30
+categories:
+- Water
+icon: fas fa-water
 
-categories: ["Water"]
-icon: "fas fa-water"
 ---
-
 ## Quidque corpore
 
 Lorem markdownum verbis. Ipso et felices curvos, interit fulmina avellere sed
@@ -47,4 +46,4 @@ nuda Pandrosos vepre, sonumque Alcyone, oscula?
 **Rapuit lacrimaeque** lapis inscriptum locis indiciine Daedalion. Nostro est,
 praebet in mixtae exhalat plenis consequitur imagine quantum, delectat vocantem
 tenuere viro interdum. Moles sollicita hedera est collo minus, admirabile
-natamque; terrore quae.  
+natamque; terrore quae.

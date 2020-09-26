@@ -1,12 +1,12 @@
 ---
-title: "Fire Nation - Price Zuko"
-date: 2020-03-22T15:05:56+05:30
-draft: false
+title: Fire Nation - Price Zuko
+date: 2020-03-22T15:05:56.000+05:30
+categories:
+- Fire
+icon: fas fa-fire
+draft: true
 
-categories: ["Fire"]
-icon: "fas fa-fire"
 ---
-
 ## Cepit pete stipe
 
 Lorem markdownum viso. Vitam et [suam Minyis](http://donec-furit.net/quid), haec
